@@ -1,6 +1,6 @@
 {
   "name": "verifycert",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shunjikonishi/verify-cert.git"
+    "url": "git+https://github.com/shunjikonishi/verifycert.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/shunjikonishi/verify-cert/issues"
+    "url": "https://github.com/shunjikonishi/verifycert/issues"
   },
-  "homepage": "https://github.com/shunjikonishi/verify-cert#readme",
+  "homepage": "https://github.com/shunjikonishi/verifycert#readme",
   "dependencies": {
     "codecheck": "^0.5.6",
     "moment": "^2.13.0"
