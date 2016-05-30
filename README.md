@@ -1,5 +1,6 @@
 # VerifyCert
-Show expiration date of SSL certificate from host name
+Show expiration date of SSL certificate from host name.  
+It is a wrapper of `openssl` command. To run this, you have to install openssl.
 
 ## Install
 
